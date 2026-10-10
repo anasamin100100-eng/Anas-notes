@@ -89,7 +89,7 @@ lib/
 **Anas Amin**
 
 * GitHub: [anasamin100100-eng](https://github.com/anasamin100100-eng)
-* LinkedIn: [Connect with me](https://www.linkedin.com/in/muhammad-anas-muhammad-amin-94b3163b/)
+* LinkedIn: [Connect with me](https://www.linkedin.com/in/muhammad-anas-muhammad-amin-94b3163b4/)
 
 ---
 
