@@ -2,6 +2,12 @@
 
 A simple and user-friendly Notes Taking App built with **Flutter, Dart, and SQLite**. The app allows users to create, view, edit, and delete notes, with customizable colors to organize their thoughts.
 
+## 📥 Download APK
+
+**[Download Anas Notes v1.0.0 for Android](https://github.com/anasamin100100-eng/Anas-notes/releases/download/v1.0.0/app-debug.apk)**
+
+Download the APK and install it on your Android device.
+
 ## ✨ Features
 
 * ➕ Create new notes
@@ -10,7 +16,7 @@ A simple and user-friendly Notes Taking App built with **Flutter, Dart, and SQLi
 * 🗑️ Delete notes
 * 🎨 Choose different colors for notes
 * 💾 Store notes locally using SQLite
-* 📱 Responsive interface for Android devices
+* 📱 User-friendly interface for Android devices
 
 ## 🛠️ Technologies Used
 
@@ -82,7 +88,7 @@ lib/
     └── database_helper.dart
 ```
 
-*Note: The file names above are illustrative; adjust them to match your actual project structure.*
+*Note: Adjust the filenames above to match your actual project structure.*
 
 ## 👨‍💻 Developer
 
